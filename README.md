@@ -1,5 +1,5 @@
 # Poetic-device-classifier
-Automated poetic device and sentiment analysis with RAG
+Automated poetic device and sentiment analysis 
 
 ## Requirements
 - Python 3.x
