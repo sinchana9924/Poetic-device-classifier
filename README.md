@@ -1,4 +1,4 @@
-# urban-couscous
+# Poetic-device-classifier
 Automated poetic device and sentiment analysis with RAG
 
 ## Requirements
