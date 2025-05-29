@@ -33,3 +33,13 @@ Ensure you have Python 3.8+ and the following packages installed:
 
 ```bash
 pip install torch transformers datasets bitsandbytes
+
+```
+
+---
+
+## 📊 Interactive Report
+
+Click the link below to explore the interactive Weights & Biases report with training metrics, model performance, and visual insights:
+
+👉 [View Interactive Report on W&B](https://api.wandb.ai/links/sgarlave-university-of-maryland/70bodlo3)
